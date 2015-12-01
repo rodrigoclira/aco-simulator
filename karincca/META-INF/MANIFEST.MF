@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+JavaFX-Version: 2.2
+implementation-vendor: NK
+implementation-title: karincca
+implementation-version: 1.0
+JavaFX-Application-Class: karincca.Karincca
+JavaFX-Class-Path: karincca.jar
+Created-By: JavaFX Packager
+Main-Class: com/javafx/main/Main
+

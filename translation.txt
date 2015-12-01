@@ -1,0 +1,41 @@
+<--- The top left menu --->
+Formüller ve açýklamalarý <-> Formulas
+Nasýl kullanýlýr <-> How to use
+Graf dosyaya yaz <-> Write graph to file
+Grap dosyadan oku <-> Read graph from file
+
+<--- In the formulas window --->
+Feromon maddesi hesaplama formülü <-> Formula of pheromone trail
+Nokta seçimi hesaplama formülü <-> Point (edge) choice formula
+
+<--- How to use window --->
+It is realy long. Just watch the video :)
+
+<--- After Saving to file --->
+Cizilen Graph ve ayarlar baþarýyla kaydedildi <-> Saving was succesful
+
+<--- Context menu of node --->
+Noktayý Sil <-> Delete node
+Yiyecek Noktasý <-> Set Food Here
+Yuva Noktasý <->  Set Cave Here
+
+<--- Context menu of edge (vertex) --->
+Yolu Sil <-> Delete Edge
+
+<--- Right Side Panel --->
+Animasyon Hýzý <-> Animation speed
+Karnýca sayýsý <-> Number of ants
+Feromon uçuculuðu yüzdesi <-> Pheromone evaporation ratio
+Q, Alpha and Beta are parameters
+Graph Çiz <-> Draw Graph
+Graph Temizle <-> Clear Graph
+Simulasyonu Baþlat <-> Start Sim
+Simulasyonu Durdur <-> Stop Sim
+Yiyecek Noktasý <-> Food
+Yuva Noktasý <-> Cave
+Graf noktasý <-> Graph node
+Karýnca <-> Ant
+
+<--- If you try to start sim without cave or food message popups --->
+Yuva noktasý ekleyiniz <-> Add cave node to graph. You can do this by right clicking a node.
+Yiyecek noktasý ekleyiniz <-> Add food node to graph. You can do this by right clicking a node.
